@@ -29,7 +29,6 @@
 | **어떤 상황에서 각 도구가 적합한지 의견 작성** | ✅ 완료 | Make는 비개발자가 업무 자동화를 만들고 싶은 경우에 적합하고,<br>n8n은 복잡한 조건 처리나 직접 코드로 데이터를 가공해야 하는 경우에 적합함 |
 
 <br>
----
 
 ## **3. 분기별 테스트 시나리오**
 
@@ -71,7 +70,7 @@
 3. **결과 확인:** Google Sheets에 데이터가 들어간 행 + Discord 채널 알림 메시지
 
 <p align="center">
-  <img src="/Project_Image/make-workflow.png" width="700">
+  <img src="/Project_Image/make-workflow.png" width="1280">
 </p>
 
 ### **📸 B. n8n**
@@ -81,14 +80,14 @@
 3. **결과 확인:** n8n을 통해 저장된 Google Sheets 행 + Discord 채널 알림 메시지
 
 <p align="center">
-  <img src="/Project_Image/n8n-workflow.png" width="700">
+  <img src="/Project_Image/n8n-workflow.png" width="1280">
 </p>
 
 ### **📸 C. Google Sheets**
 1. 고객 문의 : 데이터 자동 저장
 
 <p align="center">
-  <img src="/Project_Image/google-sheets-result.png" width="700">
+  <img src="/Project_Image/google-sheets-result.png" width="1280">
 </p>
 
 
