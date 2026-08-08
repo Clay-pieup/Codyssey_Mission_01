@@ -71,7 +71,10 @@
 1. **전체 구성:** Webhook → Google Sheets → Router → Discord 알림/미알림
 2. **실행 로그:** 각 모듈에 초록색 체크표시(`✔`)가 뜬 성공 화면
 3. **결과 확인:** Google Sheets에 데이터가 들어간 행 + Discord 채널 알림 메시지
-https://github.com/Clay-pieup/Codyssey_Mission_01/blob/197fd41946d2b3f4222981ce9f8023362b2b7225/Project_Image/make-workflow.png
+
+<p align="center">
+  <img src="./Image/make-workflow.png" width="700">
+</p>
 
 ### **📸 B. n8n**
 
@@ -80,9 +83,17 @@ https://github.com/Clay-pieup/Codyssey_Mission_01/blob/197fd41946d2b3f4222981ce9
 3. **결과 확인:** n8n을 통해 저장된 Google Sheets 행 + Discord 채널 알림 메시지
 https://github.com/Clay-pieup/Codyssey_Mission_01/blob/197fd41946d2b3f4222981ce9f8023362b2b7225/Project_Image/n8n-workflow.png
 
+<p align="center">
+  <img src="./Image/n8n-workflow.png" width="700">
+</p>
+
 ### **📸 C. Google Sheets**
 1. 고객 문의 : 데이터 자동 저장
-https://github.com/Clay-pieup/Codyssey_Mission_01/blob/197fd41946d2b3f4222981ce9f8023362b2b7225/Project_Image/google-sheets-result.png
+
+<p align="center">
+  <img src="./Image/google-sheets-result.png" width="700">
+</p>
+
 ---
 
 ## **5. 비교 분석 보고서 (초안)**
