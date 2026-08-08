@@ -73,7 +73,7 @@
 3. **결과 확인:** Google Sheets에 데이터가 들어간 행 + Discord 채널 알림 메시지
 
 <p align="center">
-  <img src="Project_Image/google-sheets-result.png" width="700">
+  <img src="/Project_Image/google-sheets-result.png" width="700">
 </p>
 
 ### **📸 B. n8n**
@@ -83,14 +83,14 @@
 3. **결과 확인:** n8n을 통해 저장된 Google Sheets 행 + Discord 채널 알림 메시지
 
 <p align="center">
-  <img src="Project_Image/google-sheets-result.png" width="700">
+  <img src="/Project_Image/google-sheets-result.png" width="700">
 </p>
 
 ### **📸 C. Google Sheets**
 1. 고객 문의 : 데이터 자동 저장
 
 <p align="center">
-  <img src="Project_Image/google-sheets-result.png" width="700">
+  <img src="/Project_Image/google-sheets-result.png" width="700">
 </p>
 
 ---
