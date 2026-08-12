@@ -361,9 +361,17 @@ Code 노드에서는 Tally에서 전달된 이메일 주소를 검사하여 `isV
 
 Tally Webhook 수신부터 이메일 검증, Gmail 자동회신, Notion 업데이트, Discord 알림까지 구성한 전체 워크플로우이다.
 
+<p align="center">
+  <img src="/Project_Image/n8n_project2_workflow.png" width="1280">
+</p>
+
 ### 9.2 정상 이메일 테스트 결과
 
 정상 이메일을 입력한 경우 Gmail 자동회신이 정상적으로 발송되었고, Notion의 처리상태가 `회신완료`로 업데이트되었다.
+
+<p align="center">
+  <img src="/Project_Image/n8n_project2_gmail.png" width="1280">
+</p>
 
 ### 9.3 오류 이메일 테스트 결과
 
